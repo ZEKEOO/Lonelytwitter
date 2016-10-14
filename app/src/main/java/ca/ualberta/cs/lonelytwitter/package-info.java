@@ -1,5 +1,4 @@
 /**
- * This is the package for classes of CMPUT301 lab projects.
+ * Test package documentation.
  */
-
 package ca.ualberta.cs.lonelytwitter;
